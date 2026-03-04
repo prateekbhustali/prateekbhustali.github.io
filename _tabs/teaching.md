@@ -31,7 +31,7 @@ order: 4
     <h3 class="mb-1"><strong>AR3B012: Computational Repertoire for Architectural Design and Engineering</strong></h3>
     <div class="text-uppercase text-muted small mb-2">Teaching Assistant</div>
     <ul>
-      <li>Delivered a lecture on applications of machine-learning in building technology.</li>
+      <li>Delivered a lecture on applications of machine learning in building technology.</li>
     </ul>
   </div>
   <div class="col-12 col-md-4 text-md-end">

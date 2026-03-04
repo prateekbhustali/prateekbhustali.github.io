@@ -8,7 +8,7 @@ I obtained my master’s degree in Computational Sciences in Engineering (CSE) a
 
 ### Contact
 
-I am always open to discussing interesting research ideas! You can reach me at p.bhustali [at] tudelft [dot] nl.
+I am always open to discussing interesting research ideas! You can reach me at p [dot] bhustali [at] tudelft [dot] nl.
 
 <p>
   <a href="https://scholar.google.com/citations?user=Ocyk22AAAAAJ&hl=en" target="_blank" rel="noopener">
