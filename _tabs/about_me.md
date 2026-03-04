@@ -15,7 +15,7 @@ I am always open to discussing interesting research ideas! You can reach me at p
     <i class="fas fa-graduation-cap"></i> Google Scholar
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/omniscientoctopus" target="_blank" rel="noopener">
+  <a href="https://github.com/prateekbhustali" target="_blank" rel="noopener">
     <i class="fab fa-github"></i> GitHub
   </a>
   &nbsp;&nbsp;

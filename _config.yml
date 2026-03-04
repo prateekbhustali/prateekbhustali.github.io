@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   PhD researcher at TU Delft's AiDAPT Lab focusing on multi-agent deep reinforcement learning for inspection and maintenance planning. Interested in uncertainty quantification, and physics-informed ML.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://omniscientoctopus.github.io/"
+url: "https://prateekbhustali.github.io/"
 
 github:
-  username: omniscientoctopus # change to your github username
+  username: prateekbhustali # change to your github username
 
 twitter:
   username: prateekbhustali # change to your twitter username
@@ -41,7 +41,7 @@ social:
   email: p.bhustali@tudelft.nl # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/omniscientoctopus # change to your github homepage
+    - https://github.com/prateekbhustali # change to your github homepage
     # - https://twitter.com/prateekbhustali # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username

@@ -16,7 +16,7 @@ order: 4
     <h3 class="mb-1"><strong>AR0202: Computational Intelligence for Integrated Design</strong></h3>
     <div class="text-uppercase text-muted small mb-2">Teaching Assistant</div>
     <ul>
-      <li>Prepared teaching materials, delivered lectures and tutorials for sequential decision-making <a href="https://github.com/omniscientoctopus/decision_making_primer" target="_blank" rel="noopener">[Material]</a>.</li>
+      <li>Prepared teaching materials, delivered lectures and tutorials for sequential decision-making <a href="https://github.com/prateekbhustali/decision_making_primer" target="_blank" rel="noopener">[Material]</a>.</li>
     </ul>
   </div>
   <div class="col-12 col-md-4 text-md-end">
